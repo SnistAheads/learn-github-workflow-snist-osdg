@@ -9102,6 +9102,7 @@ Rohan Das
 - [Cleber Fonseca](https://github.com/clebersfonseca)
 - [kamchai boonruam](https://github.com/JackyBeatles)
 - [ZePaiva]
+- [Srimanth Agastyaraju](https://github.com/srimanth98)
 - [MPaul](https://github.com/chauxvive)
 - [Rahul Makhija](https://github.com/rahuls360)
 - [Elena_Sergeeva](https://github.com/Sergeeva)
